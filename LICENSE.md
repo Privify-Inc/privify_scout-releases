@@ -1,6 +1,6 @@
 # PRIVIFY SCOUT — END USER LICENSE AGREEMENT (EULA)
 
-**Last Updated:** [DATE]
+**Last Updated:** [August 26, 2026]
 
 This End User License Agreement ("Agreement") is a legal agreement between
 you (either an individual or a single entity, "Licensee") and Privify Inc.,
@@ -16,12 +16,12 @@ INSTALL, OR USE THE SOFTWARE.
 
 ## 1. License Grant
 
-Subject to the terms of this Agreement, Privify grants Licensee a limited,
+Subject to the terms of this Agreement, Privify Inc. grants Licensee a limited,
 non-exclusive, non-transferable, non-sublicensable, revocable license to
 install and run the Software, solely in executable (binary) form, for
 Licensee's internal business evaluation or use, for the period specified
 in an applicable order form, trial notice, or agreement between Licensee
-and Privify (the "License Term"). If no period is specified, the License
+and Privify Inc. (the "License Term"). If no period is specified, the License
 Term is thirty (30) days from first use.
 
 No other rights are granted, whether by implication, estoppel, or
@@ -47,7 +47,7 @@ d. remove, obscure, or alter any proprietary notices, labels, or marks on
    or in the Software;
 
 e. use the Software to build a competing product or service, or use it for
-   benchmarking purposes without Privify's prior written consent;
+   benchmarking purposes without Privify Inc.'s prior written consent;
 
 f. use the Software beyond the scope of the License Term or for any
    purpose other than Licensee's own internal evaluation or authorized
@@ -55,14 +55,14 @@ f. use the Software beyond the scope of the License Term or for any
 
 ## 3. Ownership
 
-The Software is licensed, not sold. Privify and its licensors retain all
+The Software is licensed, not sold. Privify Inc. and its licensors retain all
 right, title, and interest in and to the Software, including all
 intellectual property rights therein. No title to or ownership of the
 Software is transferred to Licensee under this Agreement.
 
 ## 4. Confidentiality
 
-The Software, including its performance characteristics, is Privify
+The Software, including its performance characteristics, is Privify Inc.
 confidential information. Licensee shall use the same degree of care it
 uses to protect its own confidential information of similar nature (and
 no less than reasonable care) to prevent unauthorized disclosure of the
@@ -71,7 +71,7 @@ Software.
 ## 5. Feedback
 
 Any feedback, suggestions, or ideas provided by Licensee regarding the
-Software may be used by Privify without restriction or obligation to
+Software may be used by Privify Inc. without restriction or obligation to
 Licensee.
 
 ## 6. No Warranty
@@ -79,17 +79,17 @@ Licensee.
 THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS
 OR IMPLIED, INCLUDING WITHOUT LIMITATION THE WARRANTIES OF
 MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND
-NON-INFRINGEMENT. PRIVIFY DOES NOT WARRANT THAT THE SOFTWARE WILL BE
+NON-INFRINGEMENT. PRIVIFY INC. DOES NOT WARRANT THAT THE SOFTWARE WILL BE
 ERROR-FREE OR UNINTERRUPTED, OR THAT IT WILL DETECT OR REMEDIATE ALL
 SECURITY RISKS OR VULNERABILITIES.
 
 ## 7. Limitation of Liability
 
-TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL PRIVIFY BE
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL PRIVIFY INC. BE
 LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE
 DAMAGES, OR ANY LOSS OF PROFITS, REVENUE, DATA, OR BUSINESS OPPORTUNITY,
 ARISING OUT OF OR RELATED TO THIS AGREEMENT OR THE SOFTWARE, EVEN IF
-ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. PRIVIFY'S TOTAL AGGREGATE
+ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. PRIVIFY INC.'S TOTAL AGGREGATE
 LIABILITY UNDER THIS AGREEMENT SHALL NOT EXCEED THE AMOUNT PAID BY
 LICENSEE FOR THE SOFTWARE, IF ANY, OR ONE HUNDRED U.S. DOLLARS ($100) IF
 NO AMOUNT WAS PAID.
@@ -97,7 +97,7 @@ NO AMOUNT WAS PAID.
 ## 8. Term and Termination
 
 This Agreement is effective until the earlier of (a) expiration of the
-License Term, or (b) termination under this Section. Privify may
+License Term, or (b) termination under this Section. Privify Inc. may
 terminate this Agreement immediately upon notice if Licensee breaches any
 provision. Upon termination, Licensee shall immediately cease all use of
 the Software and destroy all copies in its possession.
@@ -120,7 +120,7 @@ federal courts located in California.
 This Agreement constitutes the entire agreement between the parties
 regarding the Software and supersedes all prior agreements. If any
 provision is held unenforceable, the remaining provisions remain in full
-effect. Privify may update this Agreement from time to time; continued use
+effect. Privify Inc. may update this Agreement from time to time; continued use
 of the Software after such update constitutes acceptance.
 
 ---
