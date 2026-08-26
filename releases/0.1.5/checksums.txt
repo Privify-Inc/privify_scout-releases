@@ -1,0 +1,3 @@
+ecee555f3368d24be3d234faa6d1577dea69dd28cd08b5866b4fa2b63ec782c9  scout-macos
+bcec0352bedf8cedd8a0c5ef85bdb4bd9930f35e119d9bbcf2dc1f1ada9b7006  scout-linux
+7418aca5ebe94bb96bf87e58030e146c7ce204c1ca7f554c8333157f1bf13b7d  scout-windows.exe
