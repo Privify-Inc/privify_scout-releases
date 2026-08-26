@@ -125,33 +125,7 @@ of the Software after such update constitutes acceptance.
 
 ---
 
-**Contact:** [legal/contact email] · Privify Inc., San Francisco, CA
+**Contact:** [support@privify.io] · Privify Inc., San Francisco, CA
 
 ---
 
-## ⚠️ Before using this
-
-This is a first-pass draft for legal review, not final legal advice — I'm
-not a lawyer. Have counsel review before attaching it to any real
-distribution, especially:
-
-- Section 2(b) — reverse-engineering carve-outs vary by jurisdiction (e.g.
-  EU law has mandatory interoperability exceptions that override contract
-  terms); a lawyer should confirm this language holds where your
-  prospects/customers are based.
-- Section 7 — liability caps for a security tool can get scrutinized
-  differently than typical SaaS; worth a security-specific review given
-  Scout reports on customer vulnerabilities.
-- Whether you need a separate **Trial Agreement** vs. this EULA if sales
-  is handing this to prospects pre-contract (trial terms are often
-  narrower and time-boxed differently than a full license).
-
-**Plain-English summary:**
-- People can run the Scout binary, but can't copy it, take it apart, or
-  give it to others.
-- Privify still owns it — this only lets people use it, not own a piece
-  of it.
-- No promises it's bug-free; Privify's liability if something goes wrong
-  is capped low.
-- Break the rules (e.g. try to reverse-engineer it) → license ends
-  immediately and they must delete it.
