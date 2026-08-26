@@ -23,11 +23,3 @@ shareable view for security and platform leadership.
   what's sanctioned.
 - **CIOs** — a business-level summary of AI risk posture, without
   needing to interpret raw scan output.
-
-### Highlights in this release
-- [add specific detection/report features once finalized]
-- [add supported environments / integrations]
-- [add known limitations, if any]
-
----
-Feedback and issues: [link to issue tracker]
