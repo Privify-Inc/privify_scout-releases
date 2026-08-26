@@ -12,31 +12,31 @@
     deployed against what is sanctioned. CIOs use it to understand AI risk posture
     without interpreting raw scan output.
 
-    **Latest: 0.1.5**
+    **Latest: 0.1.6**
 
     ## Download
 
     | Platform | Binary |
     |----------|--------|
-    | macOS (arm64 + Intel) | [scout-macos](https://github.com/Privify-Inc/privify_scout-releases/raw/main/releases/0.1.5/scout-macos) |
-    | Linux x86\_64 | [scout-linux](https://github.com/Privify-Inc/privify_scout-releases/raw/main/releases/0.1.5/scout-linux) |
-    | Windows x86\_64 | [scout-windows.exe](https://github.com/Privify-Inc/privify_scout-releases/raw/main/releases/0.1.5/scout-windows.exe) |
+    | macOS (arm64 + Intel) | [scout-macos](https://github.com/Privify-Inc/privify_scout-releases/raw/main/releases/0.1.6/scout-macos) |
+    | Linux x86\_64 | [scout-linux](https://github.com/Privify-Inc/privify_scout-releases/raw/main/releases/0.1.6/scout-linux) |
+    | Windows x86\_64 | [scout-windows.exe](https://github.com/Privify-Inc/privify_scout-releases/raw/main/releases/0.1.6/scout-windows.exe) |
 
-    Verify integrity: [checksums.txt](https://github.com/Privify-Inc/privify_scout-releases/raw/main/releases/0.1.5/checksums.txt) (SHA-256)
+    Verify integrity: [checksums.txt](https://github.com/Privify-Inc/privify_scout-releases/raw/main/releases/0.1.6/checksums.txt) (SHA-256)
 
     ## Quick start
 
     ```bash
     # macOS
-    curl -LO https://github.com/Privify-Inc/privify_scout-releases/raw/main/releases/0.1.5/scout-macos
+    curl -LO https://github.com/Privify-Inc/privify_scout-releases/raw/main/releases/0.1.6/scout-macos
     chmod +x scout-macos && xattr -c scout-macos && ./scout-macos
 
     # Linux
-    curl -LO https://github.com/Privify-Inc/privify_scout-releases/raw/main/releases/0.1.5/scout-linux
+    curl -LO https://github.com/Privify-Inc/privify_scout-releases/raw/main/releases/0.1.6/scout-linux
     chmod +x scout-linux && ./scout-linux
 
     # Windows (PowerShell)
-    Invoke-WebRequest -Uri https://github.com/Privify-Inc/privify_scout-releases/raw/main/releases/0.1.5/scout-windows.exe -OutFile scout.exe
+    Invoke-WebRequest -Uri https://github.com/Privify-Inc/privify_scout-releases/raw/main/releases/0.1.6/scout-windows.exe -OutFile scout.exe
     .\scout.exe
     ```
 
@@ -71,7 +71,8 @@
 
     ## All releases
 
-    - [0.1.5](releases/0.1.5/README.md)
+    - [0.1.6](releases/0.1.6/README.md)
+- [0.1.5](releases/0.1.5/README.md)
 - [0.1.4](releases/0.1.4/README.md)
 - [0.1.3](releases/0.1.3/README.md)
 - [0.1.2](releases/0.1.2/README.md)
