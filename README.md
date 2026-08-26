@@ -1,25 +1,78 @@
-## Scout v0.1.0 — AI Usage Vulnerability Visibility for the Enterprise
+    # Privify SCOUT
 
-Scout surfaces where AI is actually being used across your organization
-and what risk it's creating — turning scattered signals into a single,
-shareable view for security and platform leadership.
+    **AI risk visibility for security and platform leadership.**
 
-### What Scout does
-- **Detects AI usage across the enterprise** — sanctioned and shadow —
-  including AI tools, browser-based AI usage, and unmanaged model
-  endpoints.
-- **Surfaces vulnerabilities** tied to that usage: unauthorized access,
-  ungoverned data flow, and exposure risk from AI systems operating
-  outside policy.
-- **Generates a rich, shareable report** built for executive and
-  technical stakeholders — CISOs (Chief Information Security Officers),
-  AI platform leads, and CIOs (Chief Information Officers) — so findings
-  can move straight from Scout into a board or audit conversation
-  without reformatting.
+    SCOUT runs on any machine in minutes and produces a single, shareable report
+    that shows where AI is actually operating across your organization — sanctioned
+    and shadow — and what risk it is creating. No agents, no cloud connectivity,
+    no installation required.
 
-### Who it's for
-- **CISOs** — a defensible view of AI-driven risk exposure.
-- **AI platform leads** — visibility into what's actually deployed vs.
-  what's sanctioned.
-- **CIOs** — a business-level summary of AI risk posture, without
-  needing to interpret raw scan output.
+    Security teams use it to get a defensible view of AI-driven exposure before an
+    audit or board conversation. Platform teams use it to reconcile what is
+    deployed against what is sanctioned. CIOs use it to understand AI risk posture
+    without interpreting raw scan output.
+
+    **Latest: 0.1.1**
+
+    ## Download
+
+    | Platform | Binary |
+    |----------|--------|
+    | macOS (arm64 + Intel) | [scout-macos](https://github.com/Privify-Inc/privify_scout-releases/raw/main/releases/0.1.1/scout-macos) |
+    | Linux x86\_64 | [scout-linux](https://github.com/Privify-Inc/privify_scout-releases/raw/main/releases/0.1.1/scout-linux) |
+    | Windows x86\_64 | [scout-windows.exe](https://github.com/Privify-Inc/privify_scout-releases/raw/main/releases/0.1.1/scout-windows.exe) |
+
+    Verify integrity: [checksums.txt](https://github.com/Privify-Inc/privify_scout-releases/raw/main/releases/0.1.1/checksums.txt) (SHA-256)
+
+    ## Quick start
+
+    ```bash
+    # macOS
+    curl -LO https://github.com/Privify-Inc/privify_scout-releases/raw/main/releases/0.1.1/scout-macos
+    chmod +x scout-macos && xattr -c scout-macos && ./scout-macos
+
+    # Linux
+    curl -LO https://github.com/Privify-Inc/privify_scout-releases/raw/main/releases/0.1.1/scout-linux
+    chmod +x scout-linux && ./scout-linux
+
+    # Windows (PowerShell)
+    Invoke-WebRequest -Uri https://github.com/Privify-Inc/privify_scout-releases/raw/main/releases/0.1.1/scout-windows.exe -OutFile scout.exe
+    .\scout.exe
+    ```
+
+    A browser report opens automatically when the scan completes.
+
+    ## What SCOUT finds
+
+    | Signal category | What it surfaces |
+    |-----------------|-----------------|
+    | MCP servers | Registered tool-call surfaces (Cursor, Claude Desktop, custom) |
+    | API keys | Keys in environment variables and config files (OpenAI, Anthropic, etc.) |
+    | Local AI servers | Ollama, LM Studio, llama.cpp, and active AI processes |
+    | AI model files | Weight files on disk — GGUF, safetensors, .bin |
+    | AI tools & config | IDE extensions, CLAUDE.md, .cursorrules, browser AI usage |
+    | AI packages | OpenAI / Anthropic SDKs, LangChain, and AI CLI tools |
+    | Network & containers | LAN AI endpoints, networked MCP servers, Docker/k8s AI workloads |
+
+    Findings are organized into an interactive three-level report: a spatial
+    overview graph, per-category detail, and per-finding drill-down. Everything
+    stays on the machine — no data is transmitted.
+
+    ## Who it's for
+
+    **CISOs** — a defensible view of AI-driven risk exposure, ready for audit or
+    board presentation without reformatting.
+
+    **AI platform leads** — a clear picture of what is actually deployed versus
+    what your organization has sanctioned.
+
+    **CIOs** — a business-level summary of AI risk posture, without needing to
+    interpret raw scan output.
+
+    ## All releases
+
+    - [0.1.1](releases/0.1.1/README.md)
+- [v.0.1.0](releases/v.0.1.0/README.md)
+
+    ---
+    Built by [Privify](https://privify.io) · [Request a demo](mailto:hello@privify.io)
